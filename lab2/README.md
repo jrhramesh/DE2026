@@ -2,7 +2,7 @@
 
 https://docs.docker.com/get-started/docker_cheatsheet.pdf
 
-# Dockerize the prediction-ui component - create a Docker image, create a container, run it and check its logs
+# Dockerize the prediction-ui component - Create a Docker image, create a container, run it and check its logs
 
 sudo docker build -t indikakumara/prediction-ui:0.0.1 .
 
